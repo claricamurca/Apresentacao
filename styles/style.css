@@ -114,7 +114,8 @@ body {
 }
 
 .apresentacao__links__link:hover{
-    background-color: var(--cor-hover-links);
+    background-color: var(--cor-hover);
+
 }
 
 .rodape{
